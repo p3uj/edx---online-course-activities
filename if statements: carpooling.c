@@ -11,4 +11,6 @@ int main()
         printf("%.2f", (gas+1)/(numOfPassengers+1));
     else
         printf("%.2f", numOfPassengers+gas);
+    
+    return 0;
 }
