@@ -1,4 +1,4 @@
-# edx-online course activities
+# edx online course activities
 ### It includes all acitivies in edx.org online course in C Programming Language Foundations.
 
   - ## C Programming: Language Foundations
