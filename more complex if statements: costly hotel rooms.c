@@ -5,8 +5,7 @@ int main()
     int age = 0;
     int weightOfLuggage = 0;
 
-    scanf("%d", &age);
-    scanf("%d", &weightOfLuggage);
+    scanf("%d %d", &age, &weightOfLuggage);
     if(age == 60)
         printf("0");
     else if (age < 10)
