@@ -9,4 +9,6 @@ int main()
         printf("%d", 10+arrival*5);
     else
         printf("53");
+    
+    return 0;
 }
